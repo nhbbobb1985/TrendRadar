@@ -1,4 +1,4 @@
-<div align="center" id="trendradar">
+div align="center" id="trendradar">
 
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
   <img src="/_image/banner.jpg" alt="TrendRadar Banner" width="50%">
@@ -492,7 +492,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 >
 > 1分钟部署： 企业微信（手机通知）
 
-**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://sansan0.github.io/TrendRadar/)。
+**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览]([[[](https://nhbbobb1985.github.io/TrendRadar/))](https://nhbbobb1985.github.io/TrendRadar/)。
 
 ### **减少 APP 依赖**
 
